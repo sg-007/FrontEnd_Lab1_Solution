@@ -16,7 +16,7 @@
 }
 
 #navbar .heading {
-    padding: 15px;
+    padding: 10px;
     background: red;
     width: 100%;
 }
@@ -57,7 +57,7 @@
 .dropDownMenu {
     position: absolute;
     background: gray;
-    margin-top: 10px;
+    margin: 10px 0 10px -10px;
 }
 
 .dropdown li {
